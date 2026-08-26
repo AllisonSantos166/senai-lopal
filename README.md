@@ -1,3 +1,3 @@
 # senai-lopal
 
-vou fazer um commit diretp na develop
+vou fazer um commit direto na develop
